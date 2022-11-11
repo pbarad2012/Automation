@@ -6,4 +6,9 @@
       <class name="MavenProject.Testing.AppTest"/>
     </classes>
   </test> <!-- Test -->
+    <test thread-count="5" name="Test1">
+    <classes>
+      <class name="MavenProject.Testing.AppTest"/>
+    </classes>
+  </test> <!-- Test -->
 </suite> <!-- Suite -->
